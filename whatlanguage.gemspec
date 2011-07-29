@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "whatlanguage"
-  s.version  = "1.0.3"
+  s.version  = "1.0.5"
   s.date     = "2008-09-29"
   s.summary  = "Natural language detection for text samples"
   s.email    = "whatlanguage@peterc.org"
@@ -19,7 +19,6 @@ Gem::Specification.new do |s|
 "lang/french.lang",
 "lang/german.lang",
 "lang/pinyin.lang",
-"lang/portuguese.lang",
 "lang/russian.lang",
 "lang/spanish.lang",
 "lang/swedish.lang",
